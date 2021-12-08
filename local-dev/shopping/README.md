@@ -1,6 +1,6 @@
 # Shopping
 
-View this page for information about the data and use case: https://archive-beta.ics.uci.edu/ml/datasets/clickstream+data+for+online+shopping
+View this page for information about the data and use case: https://archive.ics.uci.edu/ml/datasets/clickstream+data+for+online+shopping
 
 Source: UCI ML Repository
 
