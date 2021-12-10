@@ -11,7 +11,7 @@ services:
       [
         "/bin/bash",
         "-c",
-        "source /etc/bash.bashrc && pip install -r requirements.txt && jupyter
+        "source /etc/bash.bashrc && pip install -r requirements.container.txt && jupyter
           notebook --ip 0.0.0.0 --no-browser --allow-root
           --notebook-dir=/tf/notebooks/local-dev"
       ]
