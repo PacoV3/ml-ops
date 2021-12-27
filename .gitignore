@@ -148,3 +148,4 @@ cython_debug/
 # Extra stuff
 .Trash-0
 .processed
+.data
