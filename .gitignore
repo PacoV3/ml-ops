@@ -146,6 +146,10 @@ cython_debug/
 #.idea/
 
 # Extra stuff
+.vscode-server
+.local
+.ipython
+.jupyter
 .Trash-0
 .processed
 .data
